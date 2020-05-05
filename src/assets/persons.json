@@ -12082,6 +12082,22 @@
       "state": "MUSCAT",
       "country": "OMAN"
     }
+  },
+    {
+    "id": 845,
+    "name": "Nathan Barel",
+    "img": "",
+    "links": {
+      "website": "",
+      "linkedin": "https://www.linkedin.com/in/nathan-barel-1b462289/",
+      "github": "https://github.com/natan7366"
+    },
+    "jobTitle": "Front-End Developer",
+    "location": {
+      "city": "Lod",
+      "state": "",
+      "country": "Israel"
+    }
   }
   ]
 }
